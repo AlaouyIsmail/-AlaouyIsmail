@@ -110,23 +110,6 @@
 - ✅ Data visualization dashboard · Simulated scenario analysis · Interactive UI
 - 🛠️ **Tech:** React.js · Python (Flask) · Pandas · SQLite · Scikit-learn
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ismail-alaouy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-alaouy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-alaouy&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=6366f1" width="60%"/>
-
-</div>
-
----
 
 ## 📬 Contact Me
 
