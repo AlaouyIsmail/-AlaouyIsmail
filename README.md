@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/Email-ismail.alaouy%40shamba.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/ismail-alaouy" target="_blank">
+  <a href="https://www.linkedin.com/in/alaouy-ismail-2147093a9/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ismail%20Alaouy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Fès%2C%20Morocco-00A86B?style=for-the-badge&logo=google-maps&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Phone-%2B212%200362300804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-%2B212%200621009804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ismail-alaouy&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views" />
