@@ -10,8 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python+Flask;AI+%26+Automation+Enthusiast;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 <p>
-  <a href="mailto:ismail.alaouy@shamba.ma">
-    <img src="https://img.shields.io/badge/Email-ismail.alaouy%40shamba.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ismail.alaouy@usmba.ac.ma">
+    <img src="https://img.shields.io/badge/Email-ismail.alaouy%40usmba.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alaouy-ismail-2147093a9/?skipRedirect=true" target="_blank">
@@ -23,7 +23,10 @@
   <img src="https://img.shields.io/badge/Phone-%2B212%200621009804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ismail-alaouy&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ismail-alaouy&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views" /> -->
+  <a href="https://ismailalaouy.netlify.app/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ismail-alaouy&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views"/>
+  </a>
 
 </div>
 
