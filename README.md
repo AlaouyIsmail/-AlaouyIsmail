@@ -131,7 +131,7 @@
 
 | 📧 Email | 💼 LinkedIn | 📍 Location |
 |:---:|:---:|:---:|
-| [ismail.alaouy@shamba.ma](mailto:ismail.alaouy@shamba.ma) | [linkedin.com/in/ismail-alaouy](https://linkedin.com/in/ismail-alaouy) | Fès, Morocco 🇲🇦 |
+| [ismail.alaouy@shamba.ma](mailto:ismail.alaouy@shamba.ma) | [linkedin.com/in/ismail-alaouy](https://www.linkedin.com/in/alaouy-ismail-2147093a9/?skipRedirect=true) | Fès, Morocco 🇲🇦 |
 
 </div>
 
