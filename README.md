@@ -110,6 +110,7 @@
 - ✅ Data visualization dashboard · Simulated scenario analysis · Interactive UI
 - 🛠️ **Tech:** React.js · Python (Flask) · Pandas · SQLite · Scikit-learn
 
+---
 
 ## 📬 Contact Me
 
@@ -117,7 +118,7 @@
 
 | 📧 Email | 💼 LinkedIn | 📍 Location |
 |:---:|:---:|:---:|
-| [ismail.alaouy@shamba.ma](mailto:ismail.alaouy@shamba.ma) | [linkedin.com/in/ismail-alaouy](https://www.linkedin.com/in/alaouy-ismail-2147093a9/?skipRedirect=true) | Fès, Morocco 🇲🇦 |
+| [ismail.alaouy@usmba.ac.ma](mailto:ismail.alaouy@usmba.ac.ma) | [linkedin.com/in/ismail-alaouy](https://www.linkedin.com/in/alaouy-ismail-2147093a9/?skipRedirect=true) | Fès, Morocco 🇲🇦 |
 
 </div>
 
